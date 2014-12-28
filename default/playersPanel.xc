@@ -85,8 +85,8 @@
     "large": {
       "enabled": true,
       "width": 100,
-      "nickFormatLeft": "<font face='Lucida Console' size='12' color='{{c:xwn8}}' alpha='{{alive?#FF|#80}}'>{{xwn8}}</font> {{name%.15s~..}} <font alpha='#A0'>{{clan}}</font>",
-      "nickFormatRight": "<font alpha='#A0'>{{clan}}</font> {{name%.15s~..}} <font face='Lucida Console' size='12' color='{{c:xwn8}}' alpha='{{alive?#FF|#80}}'>{{xwn8}}</font>",
+      "nickFormatLeft": "<font face='Lucida Console' size='12' color='{{c:xwn8}}' alpha='{{alive?#FF|#80}}'>{{xwn8}}</font> <img src='xvm://res/icons/xvm/xvm-user-{{xvm-user|none}}.png'>{{name%.15s~..}} <font alpha='#A0'>{{clan}}</font>",
+      "nickFormatRight": "<font alpha='#A0'>{{clan}}</font> {{name%.15s~..}}<img src='xvm://res/icons/xvm/xvm-user-{{xvm-user|none}}.png'> <font face='Lucida Console' size='12' color='{{c:xwn8}}' alpha='{{alive?#FF|#80}}'>{{xwn8}}</font>",
       "vehicleFormatLeft": "{{vehicle}}",
       "vehicleFormatRight": "{{vehicle}}",
       "fragsFormatLeft": "{{frags}}",
