@@ -13,7 +13,7 @@
     "url": "http:
     "date": "25.12.2014",
     "gameVersion": "0.9.5",
-    "modMinVersion": "5.5.0"
+    "modMinVersion": "5.5.1"
   },
   "login": ${"login.xc":"login"},
   "hangar": ${"hangar.xc":"hangar"},
